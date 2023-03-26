@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Matteo Mariani Personal Site"
+theme = 'barks'
